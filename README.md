@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JAGDISH-DHAMI</h1>
-- 🌱 I’m currently learning **javascript etc**
+- 🌱 I’m currently learning MERN Stack
 
 - 📫 How to reach me **jagdishdhami200@gmail.com**
 
